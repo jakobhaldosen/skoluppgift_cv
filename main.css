@@ -9,7 +9,7 @@
 
 body {
 
-	background-image: url("background.jpg");
+	background-color: #2E313D;
 	padding: 5px;
 	font-family: "Oswald";
 }
@@ -20,17 +20,24 @@ body {
 
 
 
-.banner {
+#banner {
 
-	width: 500px;
-	min-width: 500px;
-	height: 250px;
+	width: 645px;
+	min-width: 645px;
+	height: 260px;
 	margin-left: auto;
 	margin-right: auto; 
 	box-shadow: 5px 5px 5px;
 
 
 	}
+
+img {
+
+	width: 645px;
+	height: 260px;
+}
+
 
 
 /*meny*/
