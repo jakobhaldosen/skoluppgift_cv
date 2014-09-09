@@ -20,11 +20,19 @@
 
 	<div class="meny">
 
+<<<<<<< HEAD
 	 <ul class="mtop">
 	 	<li class="menyknapp"><a href="#info">Om mig</a></li>
 	 	<li class="menyknapp"><a href="#arbete">Arbetserfarenhet</a></li>
 	 	<li class="menyknapp"><a href="#utbildning">Utbildningar</a></li>
 	</ul> 
+=======
+	 	<ul class="mtop">
+	 		<li class="menyknapp"><a href="#info">Info</a></li>
+	 		<li class="menyknapp"><a href="#arbete">Arbetserfarenhet</a></li>
+	 		<li class="menyknapp"><a href="#utbildning">Utbildningar</a></li>
+		</ul> 
+>>>>>>> master
 
 	</div>	
 
