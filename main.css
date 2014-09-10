@@ -13,6 +13,7 @@ body {
 	background-color: #2E313D;
 	padding: 5px;
 	font-family: "Oswald", Serif;
+
 }
 
 
@@ -24,7 +25,6 @@ body {
 #banner {
 
 	width: 645px;
-	min-width: 645px;
 	height: 260px;
 	margin-left: auto;
 	margin-right: auto; 
@@ -35,10 +35,8 @@ body {
 
 img {
 
-	width: 645px;
-	height: 260px;
+	max-width:645px;
 }
-
 
 
 /*meny*/
@@ -47,7 +45,7 @@ img {
 
 .meny {
 
-	width: 645px;
+	max-width: 645px;
 	height: 30px;
 	margin-left: auto;
 	margin-right: auto;
@@ -59,7 +57,7 @@ img {
 
 .mtop {
 
-	width: 350px;
+	max-width: 350px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 3px;
@@ -100,9 +98,8 @@ a:hover {
 
 #center-box {
 
+	max-width: 645px;
 	margin-top: 5px;
-	width: 645px;
-	min-width: 500px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #D9CDB8;
@@ -142,9 +139,11 @@ td {
 
 #arbete, #utbildning {
 
+	width: 302px;
 	color: black;
 	padding: 10px;
 	padding-top: 10px;
+	float: left;
 
 }
 
