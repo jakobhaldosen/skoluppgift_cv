@@ -1,7 +1,6 @@
 /*övrigt*/
 
 
-
 @import url(http://fonts.googleapis.com/css?family=Oswald);
 
 .clear-fix {
@@ -32,7 +31,7 @@ body {
 	box-shadow: 5px 5px 5px;
 
 
-	}
+}
 
 img {
 
@@ -68,6 +67,11 @@ img {
 	padding-right: 0px;
 }
 
+.menyknapp {
+
+	margin-left: 30px;
+	padding-right: 5px;
+}
 
 li {
 
@@ -75,12 +79,6 @@ li {
 	list-style-type: none;
 
 
-}
-
-.menyknapp {
-
-	margin-left: 30px;
-	padding-right: 5px;
 }
 
 a {
@@ -110,31 +108,31 @@ a:hover {
 	background-color: #D9CDB8;
 	box-shadow: 5px 5px 5px;
 
-
 }
 
- /*Boxes*/
+/*Boxes*/
 
 
 
- .header {
+.header {
 
 	background-color: #404040;
 	color: white;
 	padding: 5px;
 }
 
- table {
 
- 	margin-left:auto;
- 	margin-right:auto;
+table {
 
- }
+	margin-left:auto;
+	margin-right:auto;
 
- td {
+}
 
- 	padding: 5px;
- }
+td {
+
+	padding: 5px;
+}
 
 .question, #info {
 
@@ -163,8 +161,7 @@ a:hover {
 	margin-right: auto;
 	margin-top: 15px;
 	color: white;
-	font-size: 10pt;	
-
+	font-size: 10pt;
 
 }
 
