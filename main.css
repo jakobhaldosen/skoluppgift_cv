@@ -1,5 +1,7 @@
 /*övrigt*/
 
+
+
 @import url(http://fonts.googleapis.com/css?family=Oswald);
 
 .clear-fix {
@@ -11,7 +13,7 @@ body {
 
 	background-color: #2E313D;
 	padding: 5px;
-	font-family: "Oswald";
+	font-family: "Oswald", Serif;
 }
 
 
@@ -58,12 +60,12 @@ img {
 
 .mtop {
 
-		width: 350px;
-		margin-left: auto;
-		margin-right: auto;
-		padding-top: 3px;
-		padding-left: 0px;
-		padding-right: 0px;
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 3px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 
@@ -127,7 +129,6 @@ a:hover {
  	margin-left:auto;
  	margin-right:auto;
 
- 	
  }
 
  td {
@@ -135,17 +136,10 @@ a:hover {
  	padding: 5px;
  }
 
-
-
 .question, #info {
 
 	color: black;
 	padding: 10px;
-}
-
-.q, .a {
-
-	font-style: bold;
 }
 
 #arbete, #utbildning {
