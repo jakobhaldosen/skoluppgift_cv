@@ -3,6 +3,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Oswald);
 
+
 .clear-fix {
 
 	clear:both;
@@ -17,17 +18,16 @@ body {
 }
 
 
-
 /*banner*/
 
 
 
 #banner {
 
+	height: 262px;
 	width: 645px;
-	height: 260px;
 	margin-left: auto;
-	margin-right: auto; 
+	margin-right: auto;
 	box-shadow: 5px 5px 5px;
 
 
@@ -35,7 +35,8 @@ body {
 
 img {
 
-	max-width:645px;
+	width: 100%;
+
 }
 
 
@@ -45,7 +46,7 @@ img {
 
 .meny {
 
-	max-width: 645px;
+	width: 645px;
 	height: 30px;
 	margin-left: auto;
 	margin-right: auto;
@@ -57,7 +58,7 @@ img {
 
 .mtop {
 
-	max-width: 350px;
+	width: 350px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 3px;
@@ -98,7 +99,7 @@ a:hover {
 
 #center-box {
 
-	max-width: 645px;
+	width: 645px;
 	margin-top: 5px;
 	margin-left: auto;
 	margin-right: auto;
